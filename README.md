@@ -7,9 +7,7 @@
 ###
 
 <div align="center">
-  <span align="right">
-<img src="https://komarev.com/ghpvc/?username=Maxwell999b&&style=flat-square" align="right" />
-</span>
+
   <img height="auto" width ="auto"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtjbDRlY2d4d3ZndGlqajhncXUxdzgzc3BtYzFxZGM5ajljcDNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7S6kFYFf2xHCnKgsL/giphy.gif"  />
 </div>
 

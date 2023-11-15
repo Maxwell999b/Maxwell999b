@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hi, I'm Abdulrahman Ahmed<br>Front End Developer<br>Hurghada - Red sea, Egypt<br>Email / abdulrahman.dev.me@gmail.com<br>Discord / maxwell999<br>Info / https://linktr.ee/Maxwell999b</h4>
+<h4 align="left">Hi, I'm Abdulrahman Ahmed<br>Front End Developer<br>Hurghada - Red sea, Egypt</h4>
 
 ###
 

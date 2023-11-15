@@ -1,10 +1,10 @@
-<h2 align="left">Whoami ?</h2>
+<h2 align="left">Whoami ? <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Maxwell999b&&style=flat-square" align="center" />
+</div> </h2>
 
 ###
 
-<h2 align="left">Hi, I'm Abdulrahman Ahmed <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Maxwell999b&&style=flat-square" align="center" />
-</div>  <br>Front End Developer<br>Hurghada - Red sea, Egypt</h2>
+<h2 align="left">Hi, I'm Abdulrahman Ahmed <br>Front End Developer<br>Hurghada - Red sea, Egypt</h2>
 
 ###
 

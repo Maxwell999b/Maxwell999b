@@ -4,8 +4,6 @@
 
 <h2 align="left">Hi, I'm Abdulrahman Ahmed<br>Front End Developer<br>Hurghada - Red sea, Egypt</h2>
 
-[![](https://visitcount.itsvg.in/api?id=Maxwell999b&icon=0&color=11)](https://visitcount.itsvg.in)
-
 ###
 
 <div align="center">
@@ -88,9 +86,3 @@
 </div>
 
 ###
-<h2 align="left"> GitHub Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-

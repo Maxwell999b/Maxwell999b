@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="left">Hi, I'm Abdulrahman Ahmed<br>Front End Developer<br>Hurghada - Red sea, Egypt</h2>
+<h2 align="left">Hi, I'm Abdulrahman Ahmed <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Maxwell999b&&style=flat-square" align="center" />
+</div>  <br>Front End Developer<br>Hurghada - Red sea, Egypt</h2>
 
 ###
 
@@ -89,9 +91,7 @@
 
 <h2 align="left">Github Stats</h2>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Maxwell999b&&style=flat-square" align="center" />
-</div>  
+
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact" align="center" /></div>  
 

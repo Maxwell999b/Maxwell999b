@@ -89,6 +89,8 @@
 
 <h2 align="left">Github Stats</h2>
 
-![Maxwell999b's Stats](https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
-![Maxwell999b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=cobalt&hide_border=false)
-![Maxwell999b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+![Maxwell999b's Stats](https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+
+![Maxwell999b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=shades-of-purple&hide_border=false)
+
+![Maxwell999b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)

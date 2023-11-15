@@ -7,6 +7,9 @@
 ###
 
 <div align="center">
+    <span align="right">
+<img src="https://komarev.com/ghpvc/?username=Maxwell999b&&style=flat-square" align="right" />
+</span>
   <img height="auto" width ="auto"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtjbDRlY2d4d3ZndGlqajhncXUxdzgzc3BtYzFxZGM5ajljcDNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7S6kFYFf2xHCnKgsL/giphy.gif"  />
 </div>
 
@@ -89,8 +92,4 @@
 
 <h2 align="left">Github Stats</h2>
 
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" align="center" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=shades-of-purple&hide_border=false" align="center" /></div>  <div align="right"></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" align="center" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=shades-of-purple&hide_border=false" align="center" /></div>  <div align="center"></div>  

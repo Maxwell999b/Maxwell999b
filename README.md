@@ -1,13 +1,13 @@
-<h2 align="left">("") Whoami ?</h2>
+<h2 align="left">Whoami ?</h2>
 
 ###
 
-<h4 align="left">Hi, I'm Abdulrahman Ahmed<br>Front End Developer<br>Hurghada - Red sea, Egypt</h4>
+<h2 align="left">Hi, I'm Abdulrahman Ahmed<br>Front End Developer<br>Hurghada - Red sea, Egypt</h2>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtjbDRlY2d4d3ZndGlqajhncXUxdzgzc3BtYzFxZGM5ajljcDNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7S6kFYFf2xHCnKgsL/giphy.gif"  />
+  <img height="auto" width ="auto"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtjbDRlY2d4d3ZndGlqajhncXUxdzgzc3BtYzFxZGM5ajljcDNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7S6kFYFf2xHCnKgsL/giphy.gif"  />
 </div>
 
 ###
@@ -60,29 +60,35 @@
 
 ###
 
-<h2 align="left">{ } Contact</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=201005059834" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/maxwell999b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/maxwell999b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="https://www.behance.net/maxwell999b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
   <a href="https://codepen.io/Maxwell999b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
   <a href="https://medium.com/@maxwell999b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
 
 ###
+<h2 align="left"> GitHub Stats</h2>
+[![](https://visitcount.itsvg.in/api?id=Maxwell999b&icon=0&color=11)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+

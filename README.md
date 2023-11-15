@@ -6,6 +6,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtjbDRlY2d4d3ZndGlqajhncXUxdzgzc3BtYzFxZGM5ajljcDNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7S6kFYFf2xHCnKgsL/giphy.gif"  />
+</div>
+
+###
+
 <p align="left">A highly motivated and detail-oriented Junior Front End Developer with a strong foundation in HTML, CSS, JavaScript,bootstrap, and responsive design. Passionate about coding and constantly seeking new challenges to enhance skills and stayup-to-date with industry trends. Possesses excellent problem-solving skills and thrives in a collaborative team environment.<br>To secure a challenging and rewarding position as a Junior Front End Developer in a dynamic and progressive organization where my technical skills, creativity, and enthusiasm can be utilized to contribute to the success of the organization.</p>
 
 ###
@@ -78,11 +86,5 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtjbDRlY2d4d3ZndGlqajhncXUxdzgzc3BtYzFxZGM5ajljcDNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7S6kFYFf2xHCnKgsL/giphy.gif"  />
 
 ###

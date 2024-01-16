@@ -92,4 +92,6 @@
 
 <h2 align="left">Github Stats</h2>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" align="center" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=shades-of-purple&hide_border=false" align="center" /></div>  <div align="center"></div>  
+![Maxwell999b's Stats](https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Maxwell999b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=dracula&hide_border=true)
+![Maxwell999b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=dracula&show_icons=true&hide_border=true&layout=compact)

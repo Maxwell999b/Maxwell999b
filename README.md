@@ -116,7 +116,7 @@
 </div>
 -->
 ---
-### Contact with Me 😄
+### Contact with Me 😄:
 
 Feel free to reach out to me through any of the following platforms:
 

@@ -116,7 +116,13 @@
 </div>
 -->
 ---
-### contact-with-me😄:
+### Contact with Me 😄
+
+Feel free to reach out to me through any of the following platforms:
+
+- **Email**: [abdulrahman.dev.me@gmail.com](mailto:abdulrahman.dev.me@gmail.com)
+- **LinkedIn**: [Maxwell's LinkedIn Profile](https://www.linkedin.com/in/maxwell999b/)
+- **YouTube**: [My YouTube Channel](https://www.youtube.com/channel/UCpfl-NIdQqk_gKvpRlDyTEQ)
 
 
 <div align="center">

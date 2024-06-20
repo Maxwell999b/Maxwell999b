@@ -17,12 +17,9 @@
 
 <p align="left">A highly motivated and detail-oriented Junior Front End Developer with a strong foundation in HTML, CSS, JavaScript,bootstrap, and responsive design. Passionate about coding and constantly seeking new challenges to enhance skills and stayup-to-date with industry trends. Possesses excellent problem-solving skills and thrives in a collaborative team environment.<br>To secure a challenging and rewarding position as a Junior Front End Developer in a dynamic and progressive organization where my technical skills, creativity, and enthusiasm can be utilized to contribute to the success of the organization.</p>
 
-###
+---
 
-<h2 align="left">💻 Tech Stack: </h2>
-
-###
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 #### Web Stack:
 

@@ -18,7 +18,6 @@
 <p align="left">A highly motivated and detail-oriented Junior Front End Developer with a strong foundation in HTML, CSS, JavaScript,bootstrap, and responsive design. Passionate about coding and constantly seeking new challenges to enhance skills and stayup-to-date with industry trends. Possesses excellent problem-solving skills and thrives in a collaborative team environment.<br>To secure a challenging and rewarding position as a Junior Front End Developer in a dynamic and progressive organization where my technical skills, creativity, and enthusiasm can be utilized to contribute to the success of the organization.</p>
 
 ---
-
 ### 💻 Tech Stack:
 
 #### Web Stack:
@@ -40,9 +39,9 @@
 #### Cloud & Hosting:
 
 <!-- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) --> 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
 <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) -->
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
+
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) -->
 <!--
 #### Mobile & Desktop:
@@ -52,14 +51,15 @@
 #### Design & UI:
 <!--
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) -->
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) -->
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+<!-- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
+ ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) -->
 
 #### DevOps & Tools:
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 <!-- ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) -->
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
+
 <!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) -->
 
 #### Miscellaneous:
@@ -115,12 +115,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 -->
-###
-
+---
 ### contact-with-me😄
 
-###
-
+---
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=201005059834" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
@@ -141,8 +139,7 @@
       -->
 </div>
 
-###
-
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Maxwell999b&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -156,6 +153,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Maxwell999b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

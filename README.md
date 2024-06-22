@@ -15,7 +15,18 @@
 
 ###
 
-<p align="left">A highly motivated and detail-oriented Junior Front End Developer with a strong foundation in HTML, CSS, JavaScript,bootstrap, and responsive design. Passionate about coding and constantly seeking new challenges to enhance skills and stayup-to-date with industry trends. Possesses excellent problem-solving skills and thrives in a collaborative team environment.<br>To secure a challenging and rewarding position as a Junior Front End Developer in a dynamic and progressive organization where my technical skills, creativity, and enthusiasm can be utilized to contribute to the success of the organization.</p>
+<p align="left">I'm a passionate developer with a wide range of interests. Here's a bit about me:
+
+- 🎮 Love **Gaming**
+- 🎶 Can't live without **Music**
+- ☕☕☕ A **Coffee** enthusiast (seriously, I need my caffeine!)
+- 💻 Coding on **Front End** technologies
+- 🔒 Enjoy watching **Cyber Security** topics for fun
+- 🕌 Proud **Muslim**
+- 💪 Regular at the **GYM**
+- 🎂 **27** years old
+- 🌐 **Web tech** forever and ever
+- 🚀 Always making **projects** that I feel are fun</p>
 
 ---
 ### 💻 Tech Stack:

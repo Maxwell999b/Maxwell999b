@@ -159,12 +159,15 @@ Feel free to reach out to me through any of the following platforms:
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Maxwell999b&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://api.githubtrends.io/user/svg/Maxwell999b/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
+
 
 ### 📊 Github Stats 
 
 ![Maxwell999b's Stats](https://github-readme-stats.vercel.app/api?username=Maxwell999b&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Maxwell999b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=dracula&hide_border=true)
 ![Maxwell999b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell999b&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Maxwell999b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell999b&theme=dracula&hide_border=true)
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maxwell999b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -172,3 +175,19 @@ Feel free to reach out to me through any of the following platforms:
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<details>
+  <summary>Check out Analysis</summary>
+    
+  Check out my [GitHub Wrapped](https://www.githubwrapped.io/Maxwell999b/2024) to see a summary of my GitHub activity over the past year.
+
+  - **12-Jul-2024**
+    <img src="https://github.com/Maxwell999b/Maxwell999b/blob/main/assets/12-Jul-2024.png" alt="12-Jul-2024 Activity">
+  - **2023**
+    <img src="https://github.com/Maxwell999b/Maxwell999b/blob/main/assets/2023.png" alt="2023 Activity">
+    
+</details>
+
+
+
+

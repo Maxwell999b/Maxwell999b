@@ -28,6 +28,14 @@
 - 🚀 Always making **projects** that I feel are fun</p>
 
 ---
+
+### 🛠️ VS Code Setup
+
+- 🎨 **Color Theme**: `Halcyon`  
+- 📁 **File Icons**: `Catppuccin Perfect Latte`  
+- 🧭 **Product Icons**: `Fluent Icons`
+
+---
 ### 💻 Tech Stack:
 
 #### Web Stack:
